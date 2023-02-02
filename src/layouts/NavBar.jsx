@@ -18,9 +18,9 @@ const Navbar = () => {
             <div className="container">
                 <div className="navbar-brand">
                     <div className="navbar-item">
+                        <img src="/logo.png" alt="logo" aria-label="logo" />
                         <span className="icon-text">
                             <span className="icon is-white">
-                                <Link to="/home"><FaHome /></Link>
                             </span>
                             <Link to="/home"><span>{user}</span></Link>
                         </span>

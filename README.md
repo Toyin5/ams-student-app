@@ -30,4 +30,4 @@ If you would like to contribute to the project, please follow these steps:
 
 ## Contact
 
-If you have any questions or need help with the application, please contact us at [twitter](https//:twitter.com/eng_toyin)
+If you have any questions or need help with the application, please contact us at [twitter](https://twitter.com/eng_toyin)
